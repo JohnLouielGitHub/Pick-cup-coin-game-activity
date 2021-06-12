@@ -1,3 +1,2 @@
-# kodego-activity-login-game
-#https://johnlouielgithub.github.io/kodego-activity-login-game/public/mygame.html
-#https://johnlouielgithub.github.io/kodego-activity-login-game/public/login.html
+# Pick a cup & find the coin
+go to game: <a href="https://johnlouielgithub.github.io/Pick-cup-coin-game-activity/public/mygame.html">click me</a>
